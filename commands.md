@@ -9,3 +9,7 @@ commit all staged files with a commit message
 create and move to a new branch
 5. git status
 view git staged or committed changes on current branch
+6. git push origin <branch>
+push locally commited changes over to GitHub repo
+7. git branch <branch-name>
+create a new branch without going into it
